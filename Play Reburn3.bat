@@ -1,2 +1,3 @@
 @echo off
-start C:\msys64\home\%USERNAME%\reburn3\exe\reburn3.exe
+cd C:\msys64\home\%USERNAME%\reburn3\exe\
+start reburn3.exe
