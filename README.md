@@ -13,8 +13,13 @@ Use extract-xiso to get default.xbe - Drag your Burnout3.iso onto extract-xiso.e
 https://github.com/XboxDev/extract-xiso
 
 Install MSYS2 from https://www.msys2.org/
+
 Run "Build Reburn3 MSYS2.bat"
+
 After the build has finished use the batch file "Play Reburn3.bat" to play.
+
 If the car selection screen is black immediately close and restart reburn3.
+
 After one initial boot this should be fixed.
+
 The rainbow textures are a known bug of the current version.
