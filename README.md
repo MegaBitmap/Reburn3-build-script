@@ -1,4 +1,4 @@
-# reburn3-build-script
+# Reburn3-build-script
  This is a build script for Reburn3. It makes it easier to build on windows using MSYS2.
  
 This script was made for reburn3 commit c362000
