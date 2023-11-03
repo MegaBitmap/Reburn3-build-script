@@ -1,7 +1,8 @@
 #! /bin/bash
 echo Reburn3 Build Script for MinGW32 on Windows
 echo Installing and Updating Dependencies
-pacman -Suy cmake git mingw-w64-i686-gcc ninja
+pacman -Suy
+pacman -S cmake git mingw-w64-i686-gcc ninja
 echo Cloning Repository
 git clone https://github.com/reburndev/reburn3
 cd ./reburn3/cmake/
