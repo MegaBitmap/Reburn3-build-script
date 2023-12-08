@@ -14,8 +14,11 @@
 # How to Build with Visual Studio
 
  ***PLEASE NOTE***
+ 
  After [THIS COMMIT](https://github.com/reburndev/reburn3/commit/69c6d9c974585597994ae455cbb7bb6481f8b6e6) these build scripts do not work.
+ 
  To use this script you must use [This Source Version.](https://github.com/reburndev/reburn3/tree/13cb56dae29ff61699c00698e634064f36426257)
+ 
  ***PLEASE NOTE***
 
 Install Visual Studio with the "Desktop development with C++" workload.
